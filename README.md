@@ -15,8 +15,6 @@
 
 ## // MISSION PROFILE
 
-> **Target:** Documenting the transition from automated exploitation to custom engine design.
-
 I am a **Security Researcher** and **Engine Developer** focusing on low-level internals. My work involves dissecting CVEs, developing Dynamic Binary Translation (DBT) engines, and documenting kernel exploitation techniques.
 
 <div align="center">
