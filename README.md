@@ -15,7 +15,7 @@
 
 ## // MISSION PROFILE
 
-I am a **Security Researcher** and **Engine Developer** focusing on low-level internals. My work involves dissecting CVEs, developing Dynamic Binary Translation (DBT) engines, and documenting kernel exploitation techniques.
+I am a Security Researcher who loves low-level code. I bridge the gap between Software Engineering and Exploitation. Whether it's writing Malware Deobfuscators in Rust or analyzing Zero-Days, I focus on the offensive coding aspects of security.
 
 <div align="center">
   <a href="https://tralsesec.github.io/anatomy-of-a-bug/">
