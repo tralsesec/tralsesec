@@ -1,85 +1,69 @@
-<h2 align="center"># tralsesec (aka trollzsec)</h2>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp"  />
-
-###
-
-🔍 **Enthusiast of Offensive Security & Cybersecurity**  
-- 🎮 CTF player, game hacker, proud button-presser and pen tester.  
-- 🐀 I hunt bugs and pet rats that come back to me.
-- 🔍 Explore my projects to learn more, especially about the offensive coding aspects of security and vulnerabilities.  
-
-- 💻 Passionate about uncovering intriguing bugs and vulnerabilities.  
-- ⚡ Thrill of writing exploits in various languages to bring findings to life.  
-
-- 🤝 Committed to sharing knowledge and giving back to the community that has fueled my learning.  
-- 📚 Every day is an opportunity to expand my skills and discover new techniques.  
-- 🚀 Dedicated to continuous growth in this fast-paced field.  
-
-- 📜 Find proofs of concept (PoCs) for vulnerabilities, various hacking techniques, and even some malware samples for educational purposes.  
-- 🌊 Dive in to explore the depths of security with me!
-
-###
-
-<p align="left">Languages I like to speak:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo" />
-</div>
-
-###
-
-<p align="left">Languages I am learning:</p>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=40&id=gVK745a4Vaur" height="40" alt="asm logo"  />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api?username=tralsesec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api/top-langs?layout=compact&locale=en&username=tralsesec&card_width=320&hide_title=false&hide_border=true&theme=midnight-purple&langs_count=5&hide=html,css,shell,sage,m4,cuda" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=tralsesec&locale=en&theme=midnight-purple&hide_border=true&border_radius=5&mode=daily" height="150" alt="streak graph"  />
-</div>
+  <a href="https://tralsesec.github.io">
+    <img src="https://tralsesec.github.io/assets/img/dashboard_live.png" width="100%" alt="ACCESS RESEARCH HUB" style="border: 1px solid #333; border-radius: 10px;" />
+  </a>
 
-###
+  <br />
+  <br />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tralsesec.tralsesec&"  />
-</div>
-
-###
-
-<p align="left">I will also share knowledge on my YouTube channel!</p>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@TralseSec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
+  <a href="https://tralsesec.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=System+Initialized...;Kernel+Exploitation;Malware+Deobfuscation;" alt="Typing SVG" />
   </a>
 </div>
 
-###
+<br />
 
-<!--<img src="https://raw.githubusercontent.com/TralseDev/TralseDev/output/snake.svg" alt="Snake animation" />-->
+## // MISSION PROFILE
 
-###
+> **Target:** Documenting the transition from automated exploitation to custom engine design.
+
+I am a **Security Researcher** and **Engine Developer** focusing on low-level internals. My work involves dissecting CVEs, developing Dynamic Binary Translation (DBT) engines, and documenting kernel exploitation techniques.
+
+<div align="center">
+  <a href="https://tralsesec.github.io/anatomy-of-a-bug/">
+    <img src="https://img.shields.io/badge/ACCESS-ANATOMY_OF_A_BUG-0a0a0a?style=for-the-badge&logoColor=27c93f&border=27c93f" />
+  </a>
+  <a href="https://tralsesec.github.io/projects/">
+    <img src="https://img.shields.io/badge/VIEW-PROJECTS-0a0a0a?style=for-the-badge&logoColor=27c93f&border=27c93f" />
+  </a>
+  <a href="https://tralsesec.github.io/ctfs/">
+    <img src="https://img.shields.io/badge/READ-CTF_WRITEUPS-0a0a0a?style=for-the-badge&logoColor=27c93f&border=27c93f" />
+  </a>
+</div>
+
+<br />
+
+## // ARSENAL
+
+**Primary Stack:**
+<div align="left">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</div>
+
+**Scripting & Utilities:**
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+<br />
+
+## // ACTIVE RECONNAISSANCE
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tralsesec&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=27c93f&icon_color=27c93f" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tralsesec&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=27c93f&langs_count=6&hide=html,css,tex" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <p align="center">
+    <a href="https://tralsesec.github.io">
+      <img src="https://img.shields.io/badge/ESTABLISHED-2026-27c93f?style=flat-square" />
+    </a>
+  </p>
+</div>
