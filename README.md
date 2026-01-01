@@ -52,8 +52,8 @@ I am a Security Researcher who loves low-level code. I bridge the gap between So
 ## // ACTIVE RECONNAISSANCE
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tralsesec&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=27c93f&icon_color=27c93f" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tralsesec&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=27c93f&langs_count=6&hide=html,css,tex" height="150" alt="languages graph" />
+ <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api?username=tralsesec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api/top-langs?layout=compact&locale=en&username=tralsesec&card_width=320&hide_title=false&hide_border=true&theme=midnight-purple&langs_count=5&hide=html,css,shell,sage,m4,cuda" height="150" alt="languages graph"  />
 </div>
 
 <br />
