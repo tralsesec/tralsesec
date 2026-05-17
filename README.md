@@ -1,8 +1,5 @@
 <div align="center">
 
-  <a href="https://tralsesec.github.io">
-    <img src="https://tralsesec.github.io/assets/img/dashboard_live.png" width="100%" alt="ACCESS RESEARCH HUB" style="border: 1px solid #333; border-radius: 10px;" />
-  </a>
   <br />
   <br />
 
