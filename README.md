@@ -4,14 +4,16 @@
 
 Offensive Security Researcher and Systems Engineer. 
 
-My work focuses on the intersection of low-level software architecture and offensive security. I bridge the gap between engineering and exploitation, with a heavy emphasis on memory optimization, binary exploitation, and network infrastructure mapping. 
+My work focuses on the intersection of low-level software architecture and offensive security. I bridge the gap between engineering and exploitation, with a heavy emphasis on memory optimization, binary exploitation, and performant code. 
 
 ### Core Focus
-**Systems Programming:** Rust, Go, Zig, C, and Assembly.
-**Offensive Security:** Vulnerability research, Active Directory attack paths, and custom exploitation tooling.
-**Architecture:** Developing LLVM-based compilers enforcing strict compile-time checks, and building zero-config engines for dynamic network analysis.
+**Languages:** Python, Go, C#, Zig and Assembly.
 
-### References
+**Focus:** Vulnerability Research, Adversary Emulation, and custom exploitation tooling.
+
+**Interests:** Language Design, Compiler Engineering, Malware Development, Low-Level & Performance stuff.
+
+### --- References ---
 
 [Research & Anatomy of a Bug](https://tralsesec.github.io)
 
