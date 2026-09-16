@@ -7,7 +7,7 @@ Offensive Security Researcher and Systems Engineer.
 My work focuses on the intersection of low-level software architecture and offensive security. I bridge the gap between engineering and exploitation, with a heavy emphasis on memory optimization, binary exploitation, and performant code. 
 
 ### Core Focus
-**Languages:** Python, Go, C#, Zig and Assembly.
+**Languages:** Python, Go, C#, Zig and x86-64 Intel Assembly.
 
 **Focus:** Vulnerability Research, Adversary Emulation, and custom exploitation tooling.
 
