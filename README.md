@@ -11,7 +11,7 @@ My work focuses on the intersection of low-level software architecture and offen
 
 **Focus:** Vulnerability Research, Adversary Emulation, and custom exploitation tooling.
 
-**Interests:** Language Design, Compiler Engineering, Malware Development, Low-Level & Performance stuff.
+**Interests:** Language Design, Compiler Engineering, Malware Development, Low-Level & High-Performance Computing.
 
 ### --- References ---
 
