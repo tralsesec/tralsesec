@@ -15,7 +15,7 @@ My work focuses on the intersection of low-level software architecture and offen
 
 ### --- References ---
 
-[Research & Anatomy of a Bug](https://tralsesec.github.io)
+[Research & Anatomy of a Bug](https://tralsesec.github.io/anatomy-of-a-bug/)
 
 [Projects Portfolio](https://tralsesec.github.io/projects/)
 
